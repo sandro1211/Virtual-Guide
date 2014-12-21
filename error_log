@@ -1,0 +1,6 @@
+[21-Dec-2014 12:32:33 Asia/Tbilisi] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pharmge/public_html/hackathon/fircxala/admin/dbcon.php on line 2
+[21-Dec-2014 12:32:33 Asia/Tbilisi] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/pharmge/public_html/hackathon/fircxala/admin/dbcon.php on line 2
+[21-Dec-2014 12:36:33 Asia/Tbilisi] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pharmge/public_html/hackathon/fircxala/admin/dbcon.php on line 2
+[21-Dec-2014 12:36:33 Asia/Tbilisi] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/pharmge/public_html/hackathon/fircxala/admin/dbcon.php on line 2
+[21-Dec-2014 12:50:58 Asia/Tbilisi] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pharmge/public_html/hackathon/fircxala/header_dashboard.php:37) in /home/pharmge/public_html/hackathon/fircxala/session.php on line 2
+[21-Dec-2014 12:51:08 Asia/Tbilisi] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pharmge/public_html/hackathon/fircxala/header_dashboard.php:37) in /home/pharmge/public_html/hackathon/fircxala/session.php on line 2
